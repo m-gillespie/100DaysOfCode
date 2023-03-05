@@ -1,0 +1,5 @@
+# Ignoring venv, use requirements.txt
+.venv
+
+# ignoring credential file
+cred.py
