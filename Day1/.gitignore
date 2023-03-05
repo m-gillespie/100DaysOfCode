@@ -1,5 +1,10 @@
 # Ignoring venv, use requirements.txt
 .venv
 
-# ignoring credential file
+# Should look at what this even is, but I know we don't want to share it :) 
+__pycache__
+
+# ignoring credential file, use cred_example.py
 cred.py
+
+
