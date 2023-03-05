@@ -20,7 +20,7 @@
   - Post to Etsy ? Other services?
 
 
-
+- Day 1 - 3/5/2023: blizzard api, requests, git. 
 
 
 
