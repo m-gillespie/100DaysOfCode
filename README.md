@@ -21,6 +21,6 @@
 
 
 - Day 1 - 3/5/2023: blizzard api, requests, git. 
-
+- Day 2 - 3/6/2023: More Blizzard API, trouble with flask install in venv
 
 
