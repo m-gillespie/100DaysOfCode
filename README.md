@@ -8,7 +8,7 @@
 
 - # Discord Bot 
   - Integrate with Wow armory to detect upgrades in guild members gear, and celebrate via WowNews Channel
-  - Generate picture of members character with new gear, Can we get Transmog?
+  - Generate picture of members character with new gear?
   - Generate leaderboard - IO, Gear, Achievements?
 
 - # Etsy API posting helper
@@ -22,5 +22,5 @@
 
 - Day 1 - 3/5/2023: blizzard api, requests, git. 
 - Day 2 - 3/6/2023: More Blizzard API, trouble with flask install in venv
-
+- Day 3 - 3/7/2023 : More Blizzard API, going to work on flask next. 
 
