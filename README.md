@@ -20,7 +20,7 @@
   - Post to Etsy ? Other services?
 
 
-- Day 1 - 3/5/2023: blizzard api, requests, git. 
-- Day 2 - 3/6/2023: More Blizzard API, trouble with flask install in venv
+- Day 1 - 3/5/2023 : blizzard api, requests, git. 
+- Day 2 - 3/6/2023 : More Blizzard API, trouble with flask install in venv
 - Day 3 - 3/7/2023 : More Blizzard API, going to work on flask next. 
-
+- Day 4 - 3/8/2023 : Basic flask example, Want to work on some Front end stuff next (displaying data from static JSON file generated from previous wow armory stuff).
