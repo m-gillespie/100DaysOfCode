@@ -1,0 +1,375 @@
+{
+    "profile": {
+        "name": "Clohelpyo",
+        "gender": "Male",
+        "faction": "Horde",
+        "race": "Goblin",
+        "class": "Rogue",
+        "spec": "Outlaw",
+        "realm": "Daggerspine",
+        "guild": "Dead Keys",
+        "level": 70,
+        "achievement_points": 12450,
+        "last_login": 1678335856000,
+        "equipped_ilvl": 412,
+        "title": {
+            "name": "the Shrouded",
+            "format": "{name} the Shrouded"
+        }
+    },
+    "equipment": {
+        "HEAD": {
+            "itemId": 200372,
+            "name": "Vault Delver's Vizard",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_helm_leather_raidrogueprimalist_d_01.jpg"
+            },
+            "fileId": 4668213,
+            "iLvl": {
+                "value": 421,
+                "display_string": "Item Level 421"
+            },
+            "transmog": {
+                "itemId": 189882,
+                "name": "Dread Admiral's Bicorne",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_helmet_66.jpg"
+                }
+            },
+            "durability": {
+                "value": 95,
+                "display_string": "Durability 95 / 100"
+            }
+        },
+        "NECK": {
+            "itemId": 193001,
+            "name": "Elemental Lariat",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_jewelcrafting_necklace_necklace1_color3.jpg"
+            },
+            "fileId": 4548906,
+            "iLvl": {
+                "value": 418,
+                "display_string": "Item Level 418"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "SHOULDER": {
+            "itemId": 200374,
+            "name": "Vault Delver's Epaulets",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_shoulder_leather_raidrogueprimalist_d_01.jpg"
+            },
+            "fileId": 4668215,
+            "iLvl": {
+                "value": 418,
+                "display_string": "Item Level 418"
+            },
+            "transmog": {
+                "itemId": 175227,
+                "name": "Expeditionary Leather Spaulders",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_shoulder_leather_warfrontshorde_b_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 95,
+                "display_string": "Durability 95 / 100"
+            }
+        },
+        "CHEST": {
+            "itemId": 200369,
+            "name": "Vault Delver's Brigandine",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_chest_leather_raidrogueprimalist_d_01.jpg"
+            },
+            "fileId": 4668211,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 39033,
+                "name": "Discarded Miner's Jerkin",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_chest_leather_03.jpg"
+                }
+            },
+            "durability": {
+                "value": 160,
+                "display_string": "Durability 160 / 165"
+            }
+        },
+        "WAIST": {
+            "itemId": 109829,
+            "name": "Belt of Burning Focus",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_leather_draenordungeon_c_01belt.jpg"
+            },
+            "fileId": 960144,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 39876,
+                "name": "Aged Abomination Tripe",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_belt_08.jpg"
+                }
+            },
+            "durability": {
+                "value": 52,
+                "display_string": "Durability 52 / 55"
+            }
+        },
+        "LEGS": {
+            "itemId": 200373,
+            "name": "Vault Delver's Pantaloons",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_pant_leather_raidrogueprimalist_d_01.jpg"
+            },
+            "fileId": 4668214,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 39027,
+                "name": "Leggings of Anger Management",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_pants_leather_12.jpg"
+                }
+            },
+            "durability": {
+                "value": 113,
+                "display_string": "Durability 113 / 120"
+            }
+        },
+        "FEET": {
+            "itemId": 109787,
+            "name": "Boots of Burning Focus",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_leather_draenordungeon_c_01boot.jpg"
+            },
+            "fileId": 960145,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 28178,
+                "name": "Spymistress' Boots",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_boots_05.jpg"
+                }
+            },
+            "durability": {
+                "value": 71,
+                "display_string": "Durability 71 / 80"
+            }
+        },
+        "WRIST": {
+            "itemId": 193714,
+            "name": "Frenzyroot Cuffs",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_leather_dragondungeon_c_01_bracer.jpg"
+            },
+            "fileId": 4095086,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 168665,
+                "name": "Hidden Bracers",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/spell_lifegivingspeed.jpg"
+                }
+            },
+            "durability": {
+                "value": 52,
+                "display_string": "Durability 52 / 55"
+            }
+        },
+        "HANDS": {
+            "itemId": 133617,
+            "name": "Cruel Vice Grips",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_glove_leather_legiondungeon_c_01.jpg"
+            },
+            "fileId": 1116556,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 66934,
+                "name": "Gloves of Baleflame",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_gauntlets_25.jpg"
+                }
+            },
+            "durability": {
+                "value": 51,
+                "display_string": "Durability 51 / 55"
+            }
+        },
+        "FINGER_1": {
+            "itemId": 192999,
+            "name": "Signet of Titanic Insight",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_jewelcrafting_rings_ring2_color3.jpg"
+            },
+            "fileId": 4548922,
+            "iLvl": {
+                "value": 405,
+                "display_string": "Item Level 405"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "FINGER_2": {
+            "itemId": 193696,
+            "name": "Thunderous Downburst Ring",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_dungeonjewelry_primalist_ring_1_earth.jpg"
+            },
+            "fileId": 4638567,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "TRINKET_1": {
+            "itemId": 137486,
+            "name": "Windscar Whetstone",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/creatureportrait_altarofair_01.jpg"
+            },
+            "fileId": 519378,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "TRINKET_2": {
+            "itemId": 194309,
+            "name": "Spiteful Storm",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_dungeonjewelry_primalist_trinket_1ragingelement_air.jpg"
+            },
+            "fileId": 4638591,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "BACK": {
+            "itemId": 144111,
+            "name": "Wind-Soaked Drape",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_cape_pandaria_c_01.jpg"
+            },
+            "fileId": 625166,
+            "iLvl": {
+                "value": 411,
+                "display_string": "Item Level 411"
+            },
+            "transmog": {
+                "itemId": 190376,
+                "name": "Vagabond's Midnight Cape",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_cape_basic_plain_a_02_black.jpg"
+                }
+            },
+            "durability": null
+        },
+        "MAIN_HAND": {
+            "itemId": 195512,
+            "name": "Fist of the Grand Summoner",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_hand_1h_primalistraid_d_01.jpg"
+            },
+            "fileId": 4498749,
+            "iLvl": {
+                "value": 408,
+                "display_string": "Item Level 408"
+            },
+            "transmog": {
+                "itemId": 113980,
+                "name": "Iron Soldier's Saber",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_sword_1h_draenorraid_d_02.jpg"
+                }
+            },
+            "durability": {
+                "value": 66,
+                "display_string": "Durability 66 / 80"
+            }
+        },
+        "OFF_HAND": {
+            "itemId": 190507,
+            "name": "Primal Molten Longsword",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_sword_1h_dragondungeon_c_01.jpg"
+            },
+            "fileId": 4044018,
+            "iLvl": {
+                "value": 418,
+                "display_string": "Item Level 418"
+            },
+            "transmog": {
+                "itemId": 113980,
+                "name": "Iron Soldier's Saber",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_sword_1h_draenorraid_d_02.jpg"
+                }
+            },
+            "durability": {
+                "value": 89,
+                "display_string": "Durability 89 / 110"
+            }
+        }
+    },
+    "media": {
+        "avatar": "https://render.worldofwarcraft.com/us/character/daggerspine/31/152646431-avatar.jpg",
+        "inset": "https://render.worldofwarcraft.com/us/character/daggerspine/31/152646431-inset.jpg",
+        "main": "https://render.worldofwarcraft.com/us/character/daggerspine/31/152646431-main.jpg",
+        "main-raw": "https://render.worldofwarcraft.com/us/character/daggerspine/31/152646431-main-raw.png"
+    }
+}

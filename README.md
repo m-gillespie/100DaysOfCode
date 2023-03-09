@@ -24,3 +24,4 @@
 - Day 2 - 3/6/2023 : More Blizzard API, trouble with flask install in venv
 - Day 3 - 3/7/2023 : More Blizzard API, going to work on flask next. 
 - Day 4 - 3/8/2023 : Basic flask example, Want to work on some Front end stuff next (displaying data from static JSON file generated from previous wow armory stuff).
+- Day 5 - 3/9/2023 : More flask work and pulled in json file, next will work on combining day 1-3 work to be able pull in any character from live api.

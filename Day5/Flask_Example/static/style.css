@@ -1,0 +1,22 @@
+body {
+    background-color:blanchedalmond
+}
+
+.item_slot {
+    border:1px solid black;
+    padding:0px;
+    margin: 0px;
+    width: 20vw;
+    display: flex;
+}
+.item_icon_img img{
+    vertical-align:middle;
+}
+.item_icon_img {
+    padding:0px;
+    margin:0px;
+}
+.item_desc {
+    padding:5px;
+    margin:0px;
+}

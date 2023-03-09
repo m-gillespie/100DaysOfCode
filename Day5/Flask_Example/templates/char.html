@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{data['profile']['name']}}</title>
+    <link rel="stylesheet" href="{{url_for('static',filename = 'style.css')}}">
+</head>
+<body>
+
+    {% for equipment in data['equipment'] %}
+        <div class="item_slot {{equipment}}">
+            <div class="item_icon_img">
+                <img src="{{data['equipment'][equipment]['media']['mediaURL']}}" alt="">
+            </div> 
+            <div class="item_desc">
+                {{data['equipment'][equipment]['name']}} <br> {{data['equipment'][equipment]['iLvl']['display_string']}}
+            </div>
+        </div>
+        
+    
+    {% endfor %}
+
+<!-- head <br>
+neck <br>
+shoulder <br>
+cloak <br>
+chest <br>
+shirt <br>
+tabard <br>
+wrist <br>
+<br>
+weapon <br>
+offhand <br>
+<br>
+gloves <br>
+waist <br>
+legs <br>
+boots <br>
+ring1 <br>
+ring2 <br>
+trinket1 <br>
+tirnket2 <br> -->
+
+
+
+</body>
+</html>
