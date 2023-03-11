@@ -1,0 +1,365 @@
+{
+    "profile": {
+        "name": "Grymstone",
+        "gender": "Male",
+        "faction": "Horde",
+        "race": "Blood Elf",
+        "class": "Paladin",
+        "spec": "Retribution",
+        "realm": "Daggerspine",
+        "guild": "Dead Keys",
+        "level": 70,
+        "achievement_points": 10030,
+        "last_login": 1678336015000,
+        "equipped_ilvl": 372,
+        "title": {
+            "name": "the Tormented",
+            "format": "{name} the Tormented"
+        }
+    },
+    "equipment": {
+        "HEAD": {
+            "itemId": 192005,
+            "name": "Wyrmforged Helm",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_plate_dragondungeon_c_01_helm.jpg"
+            },
+            "fileId": 4295888,
+            "iLvl": {
+                "value": 346,
+                "display_string": "Item Level 346"
+            },
+            "transmog": {
+                "itemId": 97213,
+                "name": "Hood of Hungering Darkness",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_helm_hungeringdarkness_d_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 72,
+                "display_string": "Durability 72 / 85"
+            }
+        },
+        "NECK": {
+            "itemId": 193001,
+            "name": "Elemental Lariat",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_jewelcrafting_necklace_necklace1_color3.jpg"
+            },
+            "fileId": 4548906,
+            "iLvl": {
+                "value": 392,
+                "display_string": "Item Level 392"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "SHOULDER": {
+            "itemId": 192010,
+            "name": "Wyrmforged Mantle",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_plate_dragondungeon_c_01_shoulder.jpg"
+            },
+            "fileId": 4295890,
+            "iLvl": {
+                "value": 369,
+                "display_string": "Item Level 369"
+            },
+            "transmog": {
+                "itemId": 191559,
+                "name": "Blood Knight's Dedication Shoulderplates",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_shoulder_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 74,
+                "display_string": "Durability 74 / 85"
+            }
+        },
+        "SHIRT": {
+            "itemId": 167082,
+            "name": "Stylish Black Shirt",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_shirt_black_01.jpg"
+            },
+            "fileId": 135022,
+            "iLvl": {
+                "value": 1,
+                "display_string": "Item Level 1"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "CHEST": {
+            "itemId": 193753,
+            "name": "Breastplate of Soaring Terror",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_plate_dragondungeon_c_01_chest.jpg"
+            },
+            "fileId": 4295886,
+            "iLvl": {
+                "value": 385,
+                "display_string": "Item Level 385"
+            },
+            "transmog": {
+                "itemId": 191556,
+                "name": "Blood Knight's Dedication Breastplate",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_chest_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 146,
+                "display_string": "Durability 146 / 165"
+            }
+        },
+        "WAIST": {
+            "itemId": 192011,
+            "name": "Wyrmforged Girdle",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_plate_dragondungeon_c_01_belt.jpg"
+            },
+            "fileId": 4295883,
+            "iLvl": {
+                "value": 366,
+                "display_string": "Item Level 366"
+            },
+            "transmog": {
+                "itemId": 191554,
+                "name": "Blood Knight's Dedication Belt",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_belt_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 42,
+                "display_string": "Durability 42 / 50"
+            }
+        },
+        "LEGS": {
+            "itemId": 197649,
+            "name": "Nokhud Reaver Legplates",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_pant_plate_dragonquest_b_01.jpg"
+            },
+            "fileId": 4079324,
+            "iLvl": {
+                "value": 322,
+                "display_string": "Item Level 322"
+            },
+            "transmog": {
+                "itemId": 191558,
+                "name": "Blood Knight's Dedication Chausses",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_pant_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 88,
+                "display_string": "Durability 88 / 100"
+            }
+        },
+        "FEET": {
+            "itemId": 197637,
+            "name": "Nokhud Reaver Stompers",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_boot_plate_dragonquest_b_01.jpg"
+            },
+            "fileId": 4079318,
+            "iLvl": {
+                "value": 302,
+                "display_string": "Item Level 302"
+            },
+            "transmog": {
+                "itemId": 191555,
+                "name": "Blood Knight's Dedication Greaves",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_boot_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 55,
+                "display_string": "Durability 55 / 65"
+            }
+        },
+        "WRIST": {
+            "itemId": 192012,
+            "name": "Wyrmforged Armplates",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_plate_dragondungeon_c_01_bracer.jpg"
+            },
+            "fileId": 4295884,
+            "iLvl": {
+                "value": 372,
+                "display_string": "Item Level 372"
+            },
+            "transmog": {
+                "itemId": 191560,
+                "name": "Blood Knight's Dedication Bracers",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_bracer_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 48,
+                "display_string": "Durability 48 / 55"
+            }
+        },
+        "HANDS": {
+            "itemId": 109858,
+            "name": "Goldsteel Gloves",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_glove_plate_draenordungeon_c_01.jpg"
+            },
+            "fileId": 960786,
+            "iLvl": {
+                "value": 385,
+                "display_string": "Item Level 385"
+            },
+            "transmog": {
+                "itemId": 191557,
+                "name": "Blood Knight's Dedication Gauntlets",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_glove_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 50,
+                "display_string": "Durability 50 / 55"
+            }
+        },
+        "FINGER_1": {
+            "itemId": 193633,
+            "name": "Unstable Arcane Loop",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_dungeonjewelry_tuskarr_ring_2_color4.jpg"
+            },
+            "fileId": 4638455,
+            "iLvl": {
+                "value": 382,
+                "display_string": "Item Level 382"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "FINGER_2": {
+            "itemId": 192999,
+            "name": "Signet of Titanic Insight",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_jewelcrafting_rings_ring2_color3.jpg"
+            },
+            "fileId": 4548922,
+            "iLvl": {
+                "value": 392,
+                "display_string": "Item Level 392"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "TRINKET_1": {
+            "itemId": 193679,
+            "name": "Idol of Trampling Hooves",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_dungeonjewelry_centaur_trinket_2_color5.jpg"
+            },
+            "fileId": 4638406,
+            "iLvl": {
+                "value": 389,
+                "display_string": "Item Level 389"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "TRINKET_2": {
+            "itemId": 194302,
+            "name": "Storm-Eater's Boon",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_10_elementalspiritfoozles_air.jpg"
+            },
+            "fileId": 4554454,
+            "iLvl": {
+                "value": 395,
+                "display_string": "Item Level 395"
+            },
+            "transmog": null,
+            "durability": null
+        },
+        "BACK": {
+            "itemId": 193629,
+            "name": "Cloak of Lost Devotion",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_cape_dragondungeon_c_01.jpg"
+            },
+            "fileId": 4182958,
+            "iLvl": {
+                "value": 382,
+                "display_string": "Item Level 382"
+            },
+            "transmog": {
+                "itemId": 191561,
+                "name": "Blood Knight's Dedication Cloak",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_cape_plate_raidpaladin_s_01.jpg"
+                }
+            },
+            "durability": null
+        },
+        "MAIN_HAND": {
+            "itemId": 190510,
+            "name": "Primal Molten Greataxe",
+            "media": {
+                "mediaType": "icon",
+                "mediaURL": "https://render.worldofwarcraft.com/us/icons/56/inv_axe_2h_drakonoid_c_01.jpg"
+            },
+            "fileId": 4394687,
+            "iLvl": {
+                "value": 392,
+                "display_string": "Item Level 392"
+            },
+            "transmog": {
+                "itemId": 193742,
+                "name": "Undertow Tideblade",
+                "media": {
+                    "mediaType": "icon",
+                    "mediaurl": "https://render.worldofwarcraft.com/us/icons/56/inv_sword_2h_dragondungeon_c_01.jpg"
+                }
+            },
+            "durability": {
+                "value": 96,
+                "display_string": "Durability 96 / 120"
+            }
+        }
+    },
+    "media": {
+        "avatar": "https://render.worldofwarcraft.com/us/character/daggerspine/243/150957043-avatar.jpg",
+        "inset": "https://render.worldofwarcraft.com/us/character/daggerspine/243/150957043-inset.jpg",
+        "main": "https://render.worldofwarcraft.com/us/character/daggerspine/243/150957043-main.jpg",
+        "main-raw": "https://render.worldofwarcraft.com/us/character/daggerspine/243/150957043-main-raw.png"
+    }
+}
