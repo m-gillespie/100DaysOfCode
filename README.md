@@ -26,3 +26,4 @@
 - Day 4 - 3/08/2023 : Basic flask example, Want to work on some Front end stuff next (displaying data from static JSON file generated from previous wow armory stuff).
 - Day 5 - 3/09/2023 : More flask work and pulled in json file, next will work on combining day 1-3 work to be able pull in any character from live api.
 - Day 6 - 3/10/2023 : More flask work, added api from day 3, added cache, added in memory navigation. Found it really hard to focus AFTER work vs Before. 
+- Day 7 - 3/11/2023 : I am really rusty in CSS. Off to watch some Kevin Powell for homework.

@@ -1,0 +1,5 @@
+{% for item in nav_history %}
+    <a href="/char/{{item['realm']}}/{{item['charName']}}">
+    {{item['charName']}}-{{item['realm']}}
+    </a><br>
+{% endfor %}

@@ -1,0 +1,16 @@
+<div class="char">
+    {% for equipment in data['equipment'] %}
+        <div class="item_slot {{equipment}}">
+            <div class="item_icon_img">
+                <img src="{{data['equipment'][equipment]['media']['mediaURL']}}" alt="">
+            </div> 
+            <div class="item_desc">
+                {{equipment}}<br>
+                {{data['equipment'][equipment]['name']}} <br> {{data['equipment'][equipment]['iLvl']['display_string']}}
+            </div>
+        </div>
+        {% endfor %}
+        
+</div>
+
+
