@@ -28,3 +28,4 @@
 - Day 6 - 3/10/2023 : More flask work, added api from day 3, added cache, added in memory navigation. Found it really hard to focus AFTER work vs Before. 
 - Day 7 - 3/11/2023 : I am really rusty in CSS. Off to watch some Kevin Powell for homework.
 - Day 8 - 3/12/2023 : I decided I wanted to do some machine learning. Back to basics working with MNIST 
+- Day 9 - 3/13/2023 : Continued machine learning. Refactored some thigns, Tomorrow will finish first refactor pass, as well as save / load training.
