@@ -30,4 +30,5 @@
 - Day 008 - 3/12/2023 : I decided I wanted to do some machine learning. Back to basics working with MNIST 
 - Day 009 - 3/13/2023 : Continued machine learning. Refactored some Things, Tomorrow will finish first refactor pass, as well as save / load training.
 - Day 010 - 3/14/2023 : Continued refactoring. Still more work to do.
-- Day 010 - 3/15/2023 : Finished refactoring, time to start a different refactor.
+- Day 011 - 3/15/2023 : Finished refactoring, time to start a different refactor.
+- Day 012 - 3/16/2023 : Did some graphing of results
