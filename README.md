@@ -32,3 +32,6 @@
 - Day 010 - 3/14/2023 : Continued refactoring. Still more work to do.
 - Day 011 - 3/15/2023 : Finished refactoring, time to start a different refactor.
 - Day 012 - 3/16/2023 : Did some graphing of results
+- Day 013 - 3/17/2023 : Training and saving of weights.
+- Day 014 - 3/18/2023 : p5.js
+- Day 015 - 3/16/2023 : Bubble sort in p5.js
