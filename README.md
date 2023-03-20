@@ -34,4 +34,5 @@
 - Day 012 - 3/16/2023 : Did some graphing of results
 - Day 013 - 3/17/2023 : Training and saving of weights.
 - Day 014 - 3/18/2023 : p5.js
-- Day 015 - 3/16/2023 : Bubble sort in p5.js
+- Day 015 - 3/19/2023 : Bubble sort in p5.js
+- Day 016 - 3/20/2023 : Langston's ant in p5.js
